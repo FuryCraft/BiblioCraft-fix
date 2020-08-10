@@ -11,4 +11,5 @@ Once the file is downloaded put it in the folder
 and
 
 > mods\
+
 (for the server)
